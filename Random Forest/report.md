@@ -20,7 +20,7 @@
 ![img_6.png](img_6.png)
 
 ------
-# Dataset 4: Oxford Parkinson
+## Dataset 4: Oxford Parkinson
 ### F1 Score:   
 ![img_8.png](img_8.png)
 ### Accuracy:  
@@ -28,7 +28,7 @@
 
 
 ------
-# Dataset 5: Contraceptive
+## Dataset 5: Contraceptive
 ### F1 Score:  
 ![img_10.png](img_10.png)  
 ### Accuracy:  

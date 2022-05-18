@@ -1,5 +1,4 @@
-#Homework 1 - CS589
-Name: Vo Thuan Nguyen - ID: 32739362
+#K Nearest Neighbors and Decision Tree
 
 ## Question 1
 1. Accuracy on the training set (k is odd numbers from 1 to 51) (line shows the average accuracy and standard deviation after 20 runs).

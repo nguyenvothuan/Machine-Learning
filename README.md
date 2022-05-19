@@ -1,5 +1,5 @@
 # MACHINE LEARNING
-This is a collection of 5 models including kNN, Decision Tree, Naive Bayes, Random Forest, and Neural Network built from scratch in my free time.  
+This is a collection of 5 classifiers using kNN, Decision Tree, Naive Bayes, Random Forest, and Neural Network built from scratch in my free time.  
 In each folder, there will be:  
 - A dataset folder that holds datasets to train and test each model.  
 - Source code. 

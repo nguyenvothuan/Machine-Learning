@@ -1,4 +1,4 @@
-#K Nearest Neighbors and Decision Tree
+# K Nearest Neighbors and Decision Tree
 
 ## Question 1
 1. Accuracy on the training set (k is odd numbers from 1 to 51) (line shows the average accuracy and standard deviation after 20 runs).
@@ -45,7 +45,7 @@ average accuracy as high as 94%, and there is no point in the test set and the t
 To confirm this property, we can look at the standard deviation of the test set and training set. Standard deviation of the
 test set is higher than that of the training set.
   
-Extra credit: Now using Gini index instead of Information gain
+Now using Gini index instead of Information gain
 1.When use on training set:    
 Average Accuracy:  97.16522988505749  
 Standard Deviation:  0.6911367586498992  
@@ -54,4 +54,4 @@ Standard Deviation:  0.6911367586498992
 Average Accuracy:  95.06896551724138   
 Standard Deviation:  1.904684755812619  
 ![img_2.png](img_2.png)
-For question 3 to 5, answers are the same as when using information gain.
+

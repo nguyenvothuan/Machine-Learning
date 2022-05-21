@@ -49,7 +49,7 @@ Now using Gini index instead of Information gain
 1.When use on training set:    
 Average Accuracy:  97.16522988505749  
 Standard Deviation:  0.6911367586498992  
-![img_3.png](img_3.png)
+![img_3.png](img_3.png)  
 2.When use on test set:  
 Average Accuracy:  95.06896551724138   
 Standard Deviation:  1.904684755812619  

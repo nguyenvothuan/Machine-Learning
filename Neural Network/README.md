@@ -87,16 +87,3 @@ Architecture used: #4
 Adjusted lambda: 0.00001  
 Adjusted alpha: 1.05  
 ![img_4.png](img_4.png)
-
-### Code for extra credit 1
-
-```
-    def forwardPropagation(theta, testData=False):
-        a = {1: np.insert(X if not testData else Xtest, 0, np.ones(n if not testData else nTest), 0)}
-        for k in range(2, L):
-            z = np.dot(theta[k - 1], a[k - 1])
-            a[k] = sigmoid(z)
-            a[k] = np.insert(a[k], 0, np.ones(n if not testData else nTest), 0)
-        a[L] = sigmoid(np.dot(theta[L - 1], a[L - 1]))
-        return a
-```

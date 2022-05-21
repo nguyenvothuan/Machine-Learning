@@ -1,4 +1,4 @@
-# Homework 2  
+
 ## Question 1:  
 Predict without using log trick  
 Accuracy:  0.5246138456297698  
@@ -36,7 +36,8 @@ small alpha may be less accurate since it doesn't affect the probability signifi
 
 
 ---
-## Question 3:
+## Question 3:  
+Run with 50% training set, 10% test set to study the impact.  
 Alpha: 10  
 Accuracy: 0.8388868865647627   
 Confusion Matrix: {'TP': 1974, 'FN': 526, 'FP': 278, 'TN': 2208}  
@@ -44,6 +45,7 @@ Precision: 08765541740674956
 Recall: 0.7896  
 ___
 ## Question 4:
+Run with 50% training set, 100% test set to study the impact.  
 Alpha:  10  
 Accuracy:  0.83348  
 Confusion Matrix:  {'TP': 9816, 'FN': 2684, 'FP': 1479, 'TN': 11021}  

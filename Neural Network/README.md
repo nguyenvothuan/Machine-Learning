@@ -1,4 +1,4 @@
-# Homework 4: Neural Network
+# Neural Network
 
 ### How to run the test examples:
 
